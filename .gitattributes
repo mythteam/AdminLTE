@@ -1,0 +1,12 @@
+# Ignore all test and documentation for archive
+/bootstrap      export-ignore
+/.gitattributes     export-ignore
+/.gitignore         export-ignore
+/build       export-ignore
+/documentation            export-ignore
+/pages 		export-ignore
+/plugins              export-ignore
+/changelog              export-ignore
+/index.html              export-ignore
+/index2.html              export-ignore
+/starter.html              export-ignore
